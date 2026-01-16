@@ -40,29 +40,3 @@
 
 </body>
 </html>
-
-
-body {
-    background: #ffffff;        
-    margin: 0;                 
-}
-
-.header-area {
-    background-color: #000080; 
-    color: #ffffff;         
-    text-align: center;        
-    padding: 40px;            
-}
-
-h1 {
-    font-size: 30px;
-}
-
-h2 {
-    font-size: 30px;
-    color: #000080;
-}
-
-
-<img width="425" height="447" alt="image" src="https://github.com/user-attachments/assets/ea416682-f922-40d8-9722-21ba3d0d7fcd" />
-
